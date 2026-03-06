@@ -7,7 +7,7 @@ Machine learning course project for multiclass text classification using the **D
 - Courtney Prater
 - Matthew Rampersad
 - Haida StarEagle
-- Sky Zentner
+- Skylar Zentner
 - Kelly Wells
 
 ---
